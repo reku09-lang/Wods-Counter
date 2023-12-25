@@ -1,3 +1,8 @@
+body {
+    position: fixed;
+    object-fit: cover;
+}
+
 h1, h2 {
     margin-left: 20px;
 }
@@ -10,6 +15,7 @@ h1, h2 {
 
 button {
     margin: 20px;
+    background-color: rgb(183, 255, 212);
 }
 
 .count {
